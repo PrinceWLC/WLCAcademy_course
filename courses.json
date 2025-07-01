@@ -1,14 +1,184 @@
  [
-    {
-      "id": 1,
-      "title": "Введение в криптовалюту",
-      "description": "Основные понятия, история и принципы работы криптовалют.",
-      "lessons": [
-        {
-          "id": 1,
-          "title": "Что такое криптовалюта?",
-          "content": "Криптовалюта — это цифровая валюта, основанная на технологии блокчейн..."
-        }
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "title": "course_intro_title",
+    "description": "course_intro_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_1_title",
+        "content": "lesson_1_content",
+        "imageURL": "https://example.com/crypto1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_1_quiz_1_question",
+            "options": [
+              "lesson_1_quiz_1_option_1",
+              "lesson_1_quiz_1_option_2",
+              "lesson_1_quiz_1_option_3",
+              "lesson_1_quiz_1_option_4"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "course_exchange_title",
+    "description": "course_exchange_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_2_1_title",
+        "content": "lesson_2_1_content",
+        "imageURL": "https://example.com/exchange1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_2_1_quiz_1_question",
+            "options": [
+              "lesson_2_1_quiz_1_option_1",
+              "lesson_2_1_quiz_1_option_2",
+              "lesson_2_1_quiz_1_option_3",
+              "lesson_2_1_quiz_1_option_4"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "course_tech_title",
+    "description": "course_tech_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_3_1_title",
+        "content": "lesson_3_1_content",
+        "imageURL": "https://example.com/tech1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_3_1_quiz_1_question",
+            "options": [
+              "lesson_3_1_quiz_1_option_1",
+              "lesson_3_1_quiz_1_option_2",
+              "lesson_3_1_quiz_1_option_3",
+              "lesson_3_1_quiz_1_option_4"
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "course_fund_title",
+    "description": "course_fund_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_4_1_title",
+        "content": "lesson_4_1_content",
+        "imageURL": "https://example.com/fund1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_4_1_quiz_1_question",
+            "options": [
+              "lesson_4_1_quiz_1_option_1",
+              "lesson_4_1_quiz_1_option_2",
+              "lesson_4_1_quiz_1_option_3",
+              "lesson_4_1_quiz_1_option_4"
+            ],
+            "correctIndex": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "course_risk_title",
+    "description": "course_risk_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_5_1_title",
+        "content": "lesson_5_1_content",
+        "imageURL": "https://example.com/risk1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_5_1_quiz_1_question",
+            "options": [
+              "lesson_5_1_quiz_1_option_1",
+              "lesson_5_1_quiz_1_option_2",
+              "lesson_5_1_quiz_1_option_3",
+              "lesson_5_1_quiz_1_option_4"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "course_psych_title",
+    "description": "course_psych_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_6_1_title",
+        "content": "lesson_6_1_content",
+        "imageURL": "https://example.com/psych1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_6_1_quiz_1_question",
+            "options": [
+              "lesson_6_1_quiz_1_option_1",
+              "lesson_6_1_quiz_1_option_2",
+              "lesson_6_1_quiz_1_option_3",
+              "lesson_6_1_quiz_1_option_4"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "course_practice_title",
+    "description": "course_practice_desc",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson_7_1_title",
+        "content": "lesson_7_1_content",
+        "imageURL": "https://example.com/practice1.png",
+        "quiz": [
+          {
+            "id": 1,
+            "question": "lesson_7_1_quiz_1_question",
+            "options": [
+              "lesson_7_1_quiz_1_option_1",
+              "lesson_7_1_quiz_1_option_2",
+              "lesson_7_1_quiz_1_option_3",
+              "lesson_7_1_quiz_1_option_4"
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    ]
+  }
+]
